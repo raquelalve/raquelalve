@@ -28,7 +28,7 @@
 
 <td valign="top" align="left" style="padding-left: 20px; text-align: left;">
   
-  <h3 align="left" style="text-align: left; margin-top: 0;"> E esses são alguns dos projetos que desenvolvi com elas até o momento</h3>
+  <h3 align="left" style="text-align: left; margin-top: 0;"> 🀦 - E esses são alguns dos projetos que desenvolvi com elas até o momento</h3>
   
   <p align="left" style="text-align: left;">
     
