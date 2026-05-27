@@ -22,7 +22,7 @@
 <table border="0">
 <tr>
 <td valign="top" width="210">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/download%20(1).gif?raw=true" width="190" height="151" alt="Animação do Projeto" />
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji.gif?raw=true" width="190" height="151" alt="Animação do Projeto" />
 </td>
 
 <td valign="top">
