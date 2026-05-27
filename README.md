@@ -49,6 +49,6 @@
 
 <div align="center">
   <div style="padding: 20px;">
-   <li style="text-align: left; margin-bottom: 8px;"> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ <br> Tchau tchau </a>
+   <li style="text-align: left; margin-bottom: 8px;"> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</a>
   </div>
 
