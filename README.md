@@ -24,8 +24,8 @@
 
 <table border="0">
 <tr>
-<td valign="top" width="150">
-  <img src="download (1).gif" width="130" alt="Kamaji" />
+<td valign="top" width="190">
+  <img src="download (1).gif" width="190" alt="Kamaji" />
 </td>
 
 <td valign="top">
