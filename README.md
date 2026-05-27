@@ -24,7 +24,7 @@
 <table border="0">
 <tr>
 <td valign="top" width="140">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/download%20(1).gif?raw=true" width="190" alt="Animação Tech" />
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/download%20(1).gif?raw=true" width="250" alt="Animação Tech" />
 </td>
 
 <td valign="top">
