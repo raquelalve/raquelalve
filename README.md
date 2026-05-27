@@ -21,18 +21,17 @@
 
 </div>
 </div>
-
 <table border="0">
 <tr>
-<td valign="top" width="190">
-  <img src="download (1).gif" width="190" alt="Kamaji" />
+<td valign="top" width="140">
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/download%20(1).gif?raw=true" width="120" alt="Animação Tech" />
 </td>
 
 <td valign="top">
 
 ### 🚀 Meus Principais Projetos
 
-Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
+Conheça os 4 principais projetos que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
 
 1. **[Sopro](link-do-repositorio)** — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.
 2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.
