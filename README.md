@@ -11,6 +11,12 @@
   </div>
 </div>
 
+<div align="center">
+<div style="max-width: 650px;">
+
 | Design, UI/UX | Ferramentas | Frontend |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="40" alt="UX" /> <br> <img src="https://skillicons.dev/icons?i=ps" width="40" alt="Photoshop" /> <img src="https://skillicons.dev/icons?i=ai" width="40" alt="Illustrator" /> <br> <img src="https://skillicons.dev/icons?i=ae" width="40" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /> <br> <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /> <br> <img src="https://skillicons.dev/icons?i=vscode" width="40" alt="VS Code" /> | <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS3" /> <br> <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java" /> <br> <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" /> |
+| <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="36" alt="UX" /> <br> <img src="https://skillicons.dev/icons?i=ps" width="36" alt="Photoshop" /> <img src="https://skillicons.dev/icons?i=ai" width="36" alt="Illustrator" /> <br> <img src="https://skillicons.dev/icons?i=ae" width="36" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /> <br> <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /> <br> <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /> | <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /> <br> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /> <br> <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="36" alt="Vite" /> |
+
+</div>
+</div>
