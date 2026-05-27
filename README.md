@@ -20,22 +20,16 @@
 | <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="36" alt="UX" /> <img src="https://skillicons.dev/icons?i=ae" width="36" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /> <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="36" alt="Vite" /> | <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /> |
 
 
-<div style="display: flex; align-items: flex-start;">
+<p align="left">
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" align="left" width="190" style="max-width: 190px; height: auto; margin-right: 20px; display: inline;" alt="Animação do Projeto" />
 
-  <div style="flex-shrink: 0; width: 190px; margin-right: 20px;">
-    <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" width="190" style="display: block; width: 100%; height: auto;" alt="Animação do Projeto" />
-  </div>
+  <strong>🚀 Meus Principais Projetos</strong><br />
+  Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:<br /><br />
 
-  <div style="flex-grow: 1; text-align: left;">
+  1. <strong><a href="link-do-repositorio">Sopro</a></strong> — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.<br />
+  2. <strong><a href="link-do-repositorio">Lentes do Tempo</a></strong> — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.<br />
+  3. <strong><a href="link-do-repositorio">Nome do Projeto 3</a></strong> — Breve descrição de uma linha sobre o objetivo deste projeto.<br />
+  4. <strong><a href="link-do-repositorio">Nome do Projeto 4</a></strong> — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.
+</p>
 
-### 🚀 Meus Principais Projetos
-
-Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
-
-1. **[Sopro](link-do-repositorio)** — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.
-2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.
-3. **[Nome do Projeto 3](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo deste projeto.
-4. **[Nome do Projeto 4](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.
-
-  </div>
-</div>
+<br clear="left" />
