@@ -22,11 +22,11 @@
 
 <table border="0">
 <tr>
-<td valign="top" width="210">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji.gif?raw=true" width="190" height="151" alt="Animação do Projeto" />
+<td valign="top" width="190" style="height: 1px;">
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji.gif?raw=true" width="190" style="display: block; width: 100%; height: 100%; object-fit: cover;" alt="Animação do Projeto" />
 </td>
 
-<td valign="top">
+<td valign="top" style="padding-left: 20px;">
 
 ### 🚀 Meus Principais Projetos
 
