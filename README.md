@@ -39,8 +39,8 @@
   <ol align="left" style="text-align: left; padding-left: 20px; margin: 0;">
     <li style="text-align: left; margin-bottom: 8px;"><strong><a href="https://github.com/SOPRO-equipe1">Sopro</a></strong> — Hardware de assistência de comunicação que transforma o sopro em voz.</li>
     <li style="text-align: left; margin-bottom: 8px;"><strong><a href="https://github.com/EuAndersonDev/LentesDoTempo">Lentes do Tempo</a></strong> — Site interativo de reconstrução histórica e resgate de narrativas silenciadas.</li>
-    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Nome do Projeto 3</a></strong> — Breve descrição de uma linha sobre o objetivo deste projeto.</li>
-    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Nome do Projeto 4</a></strong> — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Em breve</a></strong> — Breve descrição.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Em breve</a></strong> — Breve descrição.</li>
   </ol>
 
 </td>
