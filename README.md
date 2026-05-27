@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico 3D de Contribuições">
-</picture>
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; margin: 10px 0;">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Gráfico de Contribuições 3D Animado" width="60%" />
+</div>
