@@ -25,7 +25,7 @@
 <table border="0">
 <tr>
 <td valign="top" width="150">
-  <img src="URL_DO_SEU_GIF.gif" width="130" alt="Dente-de-leão Animado" />
+  <img src="download (1).gif" width="130" alt="Kamaji" />
 </td>
 
 <td valign="top">
