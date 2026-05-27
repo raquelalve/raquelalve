@@ -22,8 +22,8 @@
 
 <table border="0">
 <tr>
-<td valign="middle" width="190" style="width: 190px; height: 151px; max-height: 151px; min-height: 151px; padding: 0;">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" width="190" height="151" style="display: block; width: 190px; height: 151px;" alt="Animação do Projeto" />
+<td valign="top" width="190" style="width: 190px; max-width: 190px; padding: 0;">
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" style="display: block; width: 100%; height: auto;" alt="Animação do Projeto" />
 </td>
 
 <td valign="top" style="padding-left: 20px;">
