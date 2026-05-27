@@ -11,32 +11,6 @@
   </div>
 </div>
 
-<div align="center">
-  <table style="border-collapse: collapse; text-align: center; background-color: #000000; width: 85%;">
-    <tr>
-      <th width="25%" style="padding: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; font-size: 16px; color: #ffffff; font-weight: bold; border: 1px solid #30363d;">
-        Design & UI
-      </th>
-      <th width="35%" style="padding: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; font-size: 16px; color: #ffffff; font-weight: bold; border: 1px solid #30363d;">
-        Ferramentas
-      </th>
-      <th width="40%" style="padding: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; font-size: 16px; color: #ffffff; font-weight: bold; border: 1px solid #30363d;">
-        Frontend
-      </th>
-    </tr>
-    <div align="center">
-  <table style="border-collapse: collapse; text-align: center; background-color: #000000; width: 85%;">
-    <tr>
-      <th width="25%" style="padding: 12px; border: 1px solid #30363d; text-align: center;">
-        <h4 style="margin: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; font-size: 16px; font-weight: bold; text-align: center;">Design & UI</h4>
-      </th>
-      <th width="35%" style="padding: 12px; border: 1px solid #30363d; text-align: center;">
-        <h4 style="margin: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; font-size: 16px; font-weight: bold; text-align: center;">Ferramentas</h4>
-      </th>
-      <th width="40%" style="padding: 12px; border: 1px solid #30363d; text-align: center;">
-        <h4 style="margin: 0; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI'; font-size: 16px; font-weight: bold; text-align: center;">Frontend</h4>
-      </th>
-    </tr>
     
   | Design & UI | Ferramentas | Frontend |
 | :---: | :---: | :---: |
