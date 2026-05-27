@@ -19,23 +19,22 @@
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="36" alt="UX" /> <img src="https://skillicons.dev/icons?i=ae" width="36" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /> <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="36" alt="Vite" /> | <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /> |
 
-<table border="0">
-<tr>
-<td valign="top" width="210">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji.gif?raw=true" width="190" height="151" alt="Animação do Projeto" />
-</td>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-<td valign="top">
+  <div style="flex-shrink: 0;">
+    <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji.gif?raw=true" width="190" height="151" alt="Kamaji Working" />
+  </div>
+
+  <div>
 
 ### 🚀 Meus Principais Projetos
 
 Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
 
 1. **[Sopro](link-do-repositorio)** — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.
-2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.
+2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narratives silenciadas.
 3. **[Nome do Projeto 3](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo deste projeto.
 4. **[Nome do Projeto 4](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.
 
-</td>
-</tr>
-</table>
+  </div>
+</div>
