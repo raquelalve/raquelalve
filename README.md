@@ -24,52 +24,20 @@
 
 <table border="0">
 <tr>
-<td valign="top" width="180">
-<pre>
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠖⢦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⠞⡉⢆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⢨⠀⠂⠳⠔⠂⢉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢮⠍⠸⡴⢴⠈⠒⡒⢤⠀⠀⠀⠀⠀⠀⠀⠀⠱⢄⡈⢀⠆⠅⠀⠀⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⡖⢀⣅⠁⠀⢰⠂⠁⠀⠀⠀⠀⠀⠀⠀⠀⢔⡁⢀⣬⠒⠂⣁⠀⣈⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣇⡼⣿⠢⣤⣈⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢁⡾⢏⠀⣰⡉⠀⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠁⣸⠇⠀⠈⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⠃⠈⠑⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡰⢶⡀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠤⢁⡂⠓⠀⣀⡆⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⡾⠁⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠙⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢕⡄⠸⠄⠀⠀⢪⠀⠀⠀⠀⠀⠀
-⠀⠀⣰⠏⠀⠀⠀⠀⠀⠀⠖⠀⡀⢩⡀⡄⣰⡄⢀⠀⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢛⣴⡔⠢⠄⠰⠂⠀⠀⠀⠀⠀
-⠀⢰⡏⠀⠀⠀⠉⣀⡀⠰⡜⣷⣿⣸⣿⣷⣿⣧⣮⣤⡾⠁⠀⠀⠀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⣿⠀⠀⠀⠀⢤⡈⢿⣦⣹⣽⣿⣿⣿⣿⣿⣿⣿⣿⢞⣵⡧⠀⣀⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⢿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⢹⡆⠀⠋⠰⣦⣭⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡶⠗⡈⣼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠀⢲⠀⢈⡅⢠⡇⢀⡛⠀⠀⠈⢿⣄⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠈⢷⡀⠀⠒⢤⣝⣿⣿⠟⢁⣄⢹⣿⡏⢴⠄⢻⣿⣿⣿⣶⣯⡾⠃⠀⠀⠀⠀⠀⠀⠀⢠⡄⠰⣄⢡⣤⣸⣾⣾⣷⣼⢁⣿⠇⣠⠏⠀⢤⠙⢷⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠙⠿⣟⡛⠿⣿⣿⣿⠀⠈⠁⣸⣿⣿⣦⣀⣼⣿⣿⣿⣿⡿⠶⠂⠆⠀⠀⠀⠀⠀⠀⠀⠸⣷⣽⣆⣿⣿⣿⣿⣿⣿⣾⣿⣾⢟⣴⡟⣀⠀⠀⠛⣦⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠈⢻⣶⣿⣿⣿⣷⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡶⠤⠀⠀⠀⠀⠀⠀⡤⢀⣙⠳⣬⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣁⡤⠆⠀⢸⣧⠀⠀⠀⠀
-⠀⠀⠀⠆⠛⢛⣻⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣟⡿⢶⡄⡀⠀⠀⠀⠀⠀⠀⣈⡛⢿⣿⣿⠋⠠⣤⠀⣿⡿⢉⡈⠙⣿⣿⣿⣭⡷⠚⠀⠀⣸⠏⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢩⣾⢿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣟⣿⣦⡑⠆⠀⠋⠀⠀⠀⠰⠆⢴⣬⣭⣿⣿⣿⣀⣀⣠⣾⣿⣿⡈⠁⠀⢸⣿⣿⡿⠿⠛⠋⣹⡟⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠛⠈⠠⠊⣠⡿⢫⣿⣿⣿⡿⣿⢿⢿⣷⡌⠻⢯⣣⡄⠀⠀⠀⠀⠀⣠⡶⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣯⣽⣷⠞⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣀⠛⣡⡿⠃⣿⢻⠅⣿⠹⠌⠻⠆⠀⠀⠙⣦⠀⠀⠀⠀⣼⠋⣠⡀⣶⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣍⡉⠋⠐⠃⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢠⡾⠋⠀⠠⡄⠈⠀⠻⠀⠀⠀⠋⠀⠀⠀⠘⣧⠀⠀⢰⡏⠀⠈⠀⠴⠚⣯⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣭⠳⣝⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⢀⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⡆⠀⢸⣧⠀⠀⠀⢴⠟⢋⡴⠋⣰⣿⣿⣿⣿⡿⢿⣿⢻⣷⣄⠛⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣷⠀⠀⢻⣄⠀⠛⠀⠀⠈⠀⢰⣿⠏⢸⠛⣿⣷⠀⢻⣇⠻⣿⠀⠀⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠻⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡏⠀⠀⠀⠙⢷⣄⡀⠀⠀⠐⣿⠃⠀⠸⠀⠀⢛⡀⠀⢛⡄⢻⡄⠀⠀⠀⠀⠀⣴⢤⡀⣀⡀⠀
-⠀⠀⠀⣀⠀⠀⠀⠀⠀⠈⠉⠳⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⠃⠀⠀⠀⠀⠀⠈⠻⣆⡤⡜⣿⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠘⣧⠀⠀⠀⠐⣏⢿⣮⡽⢼⡇⠀
-⠀⠀⢸⣫⠳⣤⢖⠟⡇⠀⠀⠀⢹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣦⠀⠀⠀⠀⢰⠅⢈⠫⢴⠂⡙⠳⠶⠶⠶⣄⡀⠀⠀⠀⠀⠀⠻⣆⠀⠀⠰⣿⣮⣗⡿⡿⠿⠃
-⠀⣠⡾⣡⡿⣛⡞⣌⢣⡀⠀⠠⠿⠁⠀⠀⠀⠀⠀⠀⠀⡼⢻⡄⠀⠀⠂⠀⠀⠀⠀⡱⠂⠐⠊⡤⠜⠀⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀⠀⠙⣦⡀⠀⠀⠀⠻⣴⠃⠀⠀
-⠈⠛⠳⣿⡜⣥⠿⠛⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⡠⠤⢌⣠⠦⠹⣀⣀⣀⠶⡆⠀⠀⠓⠒⠒⠄⠇⠀⠀⠀⠀⢠⡿⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢦⣀⣀⣠⡄⠀⠀⠀
-⠀⠀⠄⡘⠿⡼⠀⠀⠀⠂⠀⠀⠀⠀⠀⠀⠀⠀⠑⡤⠘⠄⠀⠀⣬⠏⢹⠎⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠀⠀⠀⠀
-⠀⠀⠀⠁⠀⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢃⣄⠦⣄⢀⣿⠤⡌⢰⠒⠃⠀⠀⠀⠀⠀⠀⠀⠀⣀⣼⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠁⠀⠈⠉⠁⠀⠈⠉⠀⠈⠀⠀⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣖⢠⠂⡀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠂⠁⠀⠀⠀⠀⠀
-</pre>
+<td valign="top" width="150">
+  <img src="URL_DO_SEU_GIF.gif" width="130" alt="Dente-de-leão Animado" />
 </td>
 
 <td valign="top">
 
 ### 🚀 Meus Principais Projetos
 
-Conheça as quatro principais iniciativas que desenvolvi, unindo design, estratégia e código:
+Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
 
-1. **[Nome do Projeto 1](link-do-projeto)** — Breve descrição de uma linha sobre o que o projeto faz e seu objetivo.
-2. **[Nome do Projeto 2](link-do-projeto)** — Breve descrição de uma linha sobre o que o projeto faz e seu objetivo.
-3. **[Nome do Projeto 3](link-do-projeto)** — Breve descrição de uma linha sobre o que o projeto faz e seu objetivo.
-4. **[Nome do Projeto 4](link-do-projeto)** — Breve descrição de uma linha sobre o que o projeto faz e seu objetivo.
+1. **[Sopro](link-do-repositorio)** — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.
+2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.
+3. **[Nome do Projeto 3](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo deste projeto.
+4. **[Nome do Projeto 4](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.
 
 </td>
 </tr>
