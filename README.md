@@ -20,14 +20,13 @@
 | <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="36" alt="UX" /> <img src="https://skillicons.dev/icons?i=ae" width="36" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /> <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="36" alt="Vite" /> | <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /> |
 
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent; width: 100%;">
-<tr style="border: none; background: transparent;">
+<div style="display: flex; align-items: flex-start;">
 
-<td valign="top" width="190" style="border: none; padding: 0; width: 190px; max-width: 190px;">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" style="display: block; width: 100%; height: auto; border: none;" alt="Animação do Projeto" />
-</td>
+  <div style="flex-shrink: 0; width: 190px; margin-right: 20px;">
+    <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" width="190" style="display: block; width: 100%; height: auto;" alt="Animação do Projeto" />
+  </div>
 
-<td valign="top" align="left" style="border: none; padding-left: 20px; text-align: left;">
+  <div style="flex-grow: 1; text-align: left;">
 
 ### 🚀 Meus Principais Projetos
 
@@ -38,6 +37,5 @@ Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia 
 3. **[Nome do Projeto 3](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo deste projeto.
 4. **[Nome do Projeto 4](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.
 
-</td>
-</tr>
-</table>
+  </div>
+</div>
