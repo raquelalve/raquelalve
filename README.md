@@ -27,12 +27,20 @@
 
   <div>
 
+<div style="display: flex; align-items: stretch; max-width: 850px; border: 1px solid #30363d; border-radius: 12px; background-color: #0d1117; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';">
+
+  <div style="flex-shrink: 0; width: 190px;">
+    <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji.gif?raw=true" style="display: block; width: 100%; height: 100%; object-fit: cover;" alt="Kamaji Working" />
+  </div>
+
+  <div style="flex-grow: 1; padding: 20px 24px;">
+
 ### 🚀 Meus Principais Projetos
 
 Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
 
 1. **[Sopro](link-do-repositorio)** — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.
-2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narratives silenciadas.
+2. **[Lentes do Tempo](link-do-repositorio)** — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.
 3. **[Nome do Projeto 3](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo deste projeto.
 4. **[Nome do Projeto 4](link-do-repositorio)** — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.
 
