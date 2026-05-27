@@ -4,9 +4,9 @@
   </div>
 
   <div style="padding: 10px;">
-    <h3 style="margin-top: 0; color: #4af626;">Seja bem-vindo ao meu perfil!</h3>
+    <h3 style="margin-top: 0; color: #4af626;">  ˚˖𓍢ִ໋🏮✧˚.⋆</h3>
     <p style="margin-bottom: 0; line-height: 1.5;">
-      Sou a Raquel ˚˖𓍢ִ໋🏮✧˚.⋆
+      Seja bem-vindo ao meu perfil!
     </p>
   </div>
 </div>
