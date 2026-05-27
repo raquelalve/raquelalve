@@ -20,18 +20,26 @@
 | <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="36" alt="UX" /> <img src="https://skillicons.dev/icons?i=ae" width="36" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /> <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="36" alt="Vite" /> | <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /> |
 
 
-<p align="left">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" align="left" width="190" style="max-width: 190px; height: auto; margin-right: 20px; display: inline;" alt="Animação do Projeto" />
+<table border="0">
+<tr>
+<td valign="top" width="190" style="width: 190px; max-width: 190px; padding: 0;">
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" style="display: block; width: 100%; height: auto;" alt="Animação do Projeto" />
+</td>
 
-  <strong>🚀 Meus Principais Projetos</strong><br />
-Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
+<td valign="top" align="left" style="padding-left: 20px; text-align: left;">
+  
+  <h3 align="left" style="text-align: left; margin-top: 0;">🚀 Meus Principais Projetos</h3>
+  
+  <p align="left" style="text-align: left;">
+    Conheça as 4 principais iniciativas que desenvolvi, unindo design, estratégia de UX e desenvolvimento frontend:
+  </p>
 
-<ul style="text-align: left; padding-left: 20px; margin: 0;">
-  <li style="text-align: left;">1. <strong><a href="link-do-repositorio">Sopro</a></strong> — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.</li>
-  <li style="text-align: left;">2. <strong><a href="link-do-repositorio">Lentes do Tempo</a></strong> — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.</li>
-  <li style="text-align: left;">3. <strong><a href="link-do-repositorio">Nome do Projeto 3</a></strong> — Breve descrição de uma linha sobre o objetivo deste projeto.</li>
-  <li style="text-align: left;">4. <strong><a href="link-do-repositorio">Nome do Projeto 4</a></strong> — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.</li>
-</ul>
+  <ol align="left" style="text-align: left; padding-left: 20px; margin: 0;">
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Sopro</a></strong> — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Lentes do Tempo</a></strong> — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Nome do Projeto 3</a></strong> — Breve descrição de uma linha sobre o objetivo deste projeto.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Nome do Projeto 4</a></strong> — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.</li>
+  </ol>
 
 </td>
 </tr>
