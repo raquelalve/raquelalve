@@ -23,7 +23,7 @@
 <table border="0">
 <tr>
 <td valign="top" width="190" style="width: 190px; max-width: 190px; padding: 0;">
-  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(2).gif?raw=true" style="display: block; width: 100%; height: auto;" alt="Animação do Projeto" />
+  <img src="https://github.com/raquelalve/raquelalve/blob/main/assets/downloadkamaji%20(1).gif?raw=true" style="display: block; width: 100%; height: auto;" alt="Animação do Projeto" />
 </td>
 
 <td valign="top" align="left" style="padding-left: 20px; text-align: left;">
