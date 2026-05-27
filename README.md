@@ -19,6 +19,8 @@
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=figma" width="36" alt="Figma" /> <img src="https://skillicons.dev/icons?i=xd" width="36" alt="UX" /> <img src="https://skillicons.dev/icons?i=ae" width="36" alt="After Effects" /> | <img src="https://skillicons.dev/icons?i=html" width="36" alt="HTML5" /> <img src="https://skillicons.dev/icons?i=css" width="36" alt="CSS3" /> <img src="https://skillicons.dev/icons?i=js" width="36" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=java" width="36" alt="Java" /> <img src="https://skillicons.dev/icons?i=react" width="36" alt="React" /> <img src="https://skillicons.dev/icons?i=vite" width="36" alt="Vite" /> | <img src="https://skillicons.dev/icons?i=git" width="36" alt="Git" /> <img src="https://skillicons.dev/icons?i=github" width="36" alt="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" width="36" alt="VS Code" /> |
 
+##Meus projetos
+<hr>
 
 <table border="0">
 <tr>
