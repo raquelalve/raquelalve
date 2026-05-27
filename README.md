@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquelalve&theme=tokyonight&background=000000&hide_border=true" alt="Estatísticas de Contribuição" width="75%" />
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
