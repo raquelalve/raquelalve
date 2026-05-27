@@ -49,6 +49,6 @@
 
 <div align="center">
   <div style="padding: 20px;">
-    <img src="./assets/‧₊˚୨୧˙∘_.png" alt="Animação" width="35%" style="border-radius: 8px; display: block; margin: 0 auto;" />
+   <li style="text-align: left; margin-bottom: 8px;"> ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖ <br> Tchau tchau </a>
   </div>
 
