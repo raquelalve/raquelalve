@@ -31,13 +31,12 @@
   <h3 align="left" style="text-align: left; margin-top: 0;">🚀 Meus Principais Projetos</h3>
   
   <p align="left" style="text-align: left;">
-    E esses são alguns dos projetos que desenvolvi <br>
-    com elas até o momento
+    E esses são alguns dos projetos que desenvolvi com elas até o momento
   </p>
 
   <ol align="left" style="text-align: left; padding-left: 20px; margin: 0;">
-    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Sopro</a></strong> — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.</li>
-    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Lentes do Tempo</a></strong> — Plataforma interativa de reconstrução histórica e resgate de narrativas silenciadas.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="https://github.com/SOPRO-equipe1">Sopro</a></strong> — Ferramenta de assistência de comunicação que transforma o sopro em tecnologia e voz.</li>
+    <li style="text-align: left; margin-bottom: 8px;"><strong><a href="https://github.com/EuAndersonDev/LentesDoTempo">Lentes do Tempo</a></strong> — Site interativo de reconstrução histórica e resgate de narrativas silenciadas.</li>
     <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Nome do Projeto 3</a></strong> — Breve descrição de uma linha sobre o objetivo deste projeto.</li>
     <li style="text-align: left; margin-bottom: 8px;"><strong><a href="link-do-repositorio">Nome do Projeto 4</a></strong> — Breve descrição de uma linha sobre o objetivo do seu quarto projeto.</li>
   </ol>
