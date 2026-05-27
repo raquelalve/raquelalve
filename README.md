@@ -7,6 +7,7 @@
     <h3 style="margin-top: 0; color: #4af626;">  ˚˖𓍢ִ໋🏮✧˚.⋆</h3>
     <p style="margin-bottom: 0; line-height: 1.5;">
       Seja bem-vindo ao meu perfil!
+      essas são minhas ferramentas de trabalho
     </p>
   </div>
 </div>
